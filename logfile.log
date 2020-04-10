@@ -1,0 +1,18 @@
+2020-03-29 02:25:34,804 :INFO :test_logging :Information statement
+2020-03-29 02:25:34,804 :WARNING :test_logging :Something is in warning mode
+2020-03-29 02:25:34,805 :ERROR :test_logging :A major error has happened
+2020-03-29 02:25:34,805 :CRITICAL :test_logging :Critical issue
+
+2020-03-29 02:27:53,484 :DEBUG :test_logging :A debug statement is executed
+2020-03-29 02:27:53,484 :INFO :test_logging :Information statement
+2020-03-29 02:27:53,484 :WARNING :test_logging :Something is in warning mode
+2020-03-29 02:27:53,484 :ERROR :test_logging :A major error has happened
+2020-03-29 02:27:53,485 :CRITICAL :test_logging :Critical issue
+2020-03-29 02:28:41,084 :CRITICAL :test_logging :Critical issue
+2020-03-30 00:53:27,213 :INFO :BaseClass :Prasenjit
+2020-03-30 00:53:27,222 :INFO :BaseClass :Naike
+2020-03-30 00:58:30,296 :INFO :test_editProfile :Prasenjit
+2020-03-30 00:58:30,296 :INFO :test_editProfile :Naike
+2020-03-30 01:00:41,123 :INFO :test_editProfile :Prasenjit
+2020-03-30 01:00:41,123 :INFO :test_editProfile :Naike
+2020-03-30 01:00:41,135 :CRITICAL :test_logging :Critical issue
